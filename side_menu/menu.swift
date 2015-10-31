@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+//@objc
+//public protocol Menu {
+//    var menuItems: [UIView] {get}
+//}

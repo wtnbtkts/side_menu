@@ -9,5 +9,9 @@
 #ifndef sidemenu_h
 #define sidemenu_h
 
+//FOUNDATION_EXPORT double SideMenuVersionNumber;
+//FOUNDATION_EXPORT const unsigned char SideMenuVersionString[];
+
+
 
 #endif /* sidemenu_h */
